@@ -1,0 +1,22 @@
+.uppercaseDiv {
+    height: 60px;
+    width: 30%;
+    margin: auto;
+    margin-top: 100px;
+}
+
+#but {
+    border: 0px;
+    background-color: blue;
+    color: white;
+    padding: 8px;
+    border-radius: 5px;
+    margin-left: 10px;
+
+}
+
+#but:hover {
+    border: 0px;
+    background-color: rgb(238, 161, 19);
+    color: white;
+}
