@@ -1,1 +1,1 @@
-# React first and second assignment
+# React assignments.
